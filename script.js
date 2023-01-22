@@ -12,5 +12,4 @@ function generate(){
   let quote = quotes[author];
   
   document.getElementById("author").innerHTML = author;
-  document.getElementById("quote").innerHTML = quote;
-}
+  document.getElementById("quote").innerHTML = quote;}

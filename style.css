@@ -25,6 +25,9 @@ body{
   font-size: 2rem;
 }
 @media(max-width:375px){
+  .container{
+    height: 85vh;
+  }
   .quotes{
     height: 65vh;
     margin-top: 10vh;

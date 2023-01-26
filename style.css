@@ -24,3 +24,8 @@ body{
 .quotes p, .quotes h3{
   font-size: 2rem;
 }
+@media(max-width:375px){
+  .quotes{
+    height: 400px;
+  }
+}
